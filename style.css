@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+   
+}
+body{
+    border: none;
+    background: #23252C;
+    margin: auto;
+    width: 100%;
+    
+    padding: 10px;
+    font-family: 'Inter', sans-serif;
+}
+.image{
+    
+   width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    
+}
+
+.About--div{
+    text-align: center;
+    
+    
+     
+}
+
+.About--name{
+    color: white;
+} 
+   
+.About--job{
+    color: #F3BF99;
+
+}
+
+.About--site{
+    color: #F5F5F5;
+
+}
+.About--btn{
+     display: inline-block;
+     
+    
+}
+.align--btn{
+    display: flex;
+    align-items: center;
+    
+}
+.About--btn--space{
+    width: 17px;
+    display: inline-block;
+}
+
+.Email--btn{
+    background: whitesmoke;
+    border: none;
+    width: 115px;
+    height: 34px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.Linkedin--btn{
+    background: #5093E2;
+    border: none;
+    width: 115px;
+    height: 34px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 20px;
+    
+}
+
+.fa fa-linkedin{
+   
+}
+
+.Info{
+    color: #F5F5F5;
+    
+    margin: auto;
+    
+    
+    padding: 10px;
+}
+
+.Interests{
+   
+    background: #23252C;
+  border-radius: 0px 0px 10px 10px;
+  
+}
+
+.Interests > i{
+    
+    align-items: center;
+}
